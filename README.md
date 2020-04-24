@@ -16,7 +16,7 @@ Se descargó la base de datos de casos diarios a partir del 5 de enero hasta el 
 
 Base de datos utilizada disponible en: https://datos.covid-19.conacyt.mx/#DownZCSV
 
-![Base de datos](/images/base-de-datos.png)
+![Base de datos](/images/base-de-datos.PNG)
 
 
 ## Resultados y predicciones
