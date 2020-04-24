@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## Modelo de predicción de casos de COVID-19 en México
-=======
 # Modelo de predicción de casos de COVID-19 en México
 
 ## Objetivo
@@ -22,4 +19,3 @@ Base de datos utilizada disponible en: https://datos.covid-19.conacyt.mx/#DownZC
 
 
 ## Resultados y predicciones
->>>>>>> ca6d3fdc3bafc45ff48d5d359167b3cf0f0ae3d8
