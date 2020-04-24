@@ -20,7 +20,7 @@ A continuación se muestra una porción de los datos:
 
 ![Base de datos](/images/base-de-datos.PNG)
 
-Gráfica de la base de datos:
+### Gráfica de la base de datos:
 
 ![Datos graficados](/images/grafica-base-de-datos.PNG)
 
@@ -32,6 +32,24 @@ Se eligió una función sigmoidal/logistica de modo que el modelo resultante ten
 
 ![Base de datos](/images/funcion.PNG)
 
+La siguiente tarea fue el cálculo de los parametros beta_1 y beta_2. Dicha tarea se llevó a cabo utilizando las siguiente librerías.
+
+## Librerías
+
+### Scipy
+
+Para el cálculo de los parámetros de la función se utilizó las librería [Scipy](https://www.scipy.org/.)
+
+A continuación se muestra el fragmento del código para cálcular e imprimir los parámetros beta_1 y beta_2
+```python
+popt, pcov = curve_fit(sigmoid, xdata, ydata)
+#imprimir los parámetros finales
+print(" beta_1 = %f, beta_2 = %f" % (popt[0], popt[1]))
+```
+
+### Pandas y Numpy
+
+Para tareas básicas se utilizaron [Pandas](https://pandas.pydata.org/) (librería de análisis de datos) [Numpy](https://numpy.org/) (contiene funciones matemáticas)
 
 ## Resultados y predicciones
 
