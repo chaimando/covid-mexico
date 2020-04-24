@@ -6,6 +6,8 @@ El objetivo de este modelo matemático es de proposito meramente informativo, y 
 
 Debe ser tomado como un recurso para informar a la gente sobre la velocidad con la que se ha propagado el virus y cuál podría ser el número de casos en un futuro cercano si no se acatan las medidas pertinentes.
 
+Inspirado en el trabajo de @prestevez disponible en: https://github.com/prestevez/covid-19-mx
+
 ## Modelo matématico
 
 ## Datos oficiales
