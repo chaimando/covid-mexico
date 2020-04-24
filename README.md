@@ -10,6 +10,9 @@ Inspirado en el trabajo de @prestevez disponible en: https://github.com/presteve
 
 ## Modelo matématico
 
+Se eligió una función sigmoidal/logistica de modo que el modelo resultante tendría la siguiente forma:
+
+
 ## Datos oficiales
 
 Se descargó la base de datos de casos diarios a partir del 5 de enero hasta el 20 de abril y se depuró para tener solo los datos a nivel nacional así como el número total de casos.
