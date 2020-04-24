@@ -10,9 +10,9 @@ Espero que este modelo sea tomado también como una inspiración para estudiante
 
 Inspirado en el trabajo de @prestevez disponible en: https://github.com/prestevez/covid-19-mx
 
-## Datos oficiales
+## Base de datos
 
-Se descargó la base de datos de casos diarios a partir del 5 de enero hasta el 20 de abril y se depuró para tener solo los datos a nivel nacional así como el número total de casos.
+Se descargó la base de datos de casos diarios a partir del 5 de enero hasta el 20 de abril de la página del CONACyT y se depuró para tener solo los datos a nivel nacional así como el número total de casos.
 
 Base de datos utilizada disponible en: https://datos.covid-19.conacyt.mx/#DownZCSV
 
