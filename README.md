@@ -24,3 +24,8 @@ A continuación se muestra una porción de los datos y la gráfica de los mismos
 
 
 ## Resultados y predicciones
+
+A continuación se muestra la función calculada en una gráfica
+
+![Resultado](/images/modelo-vs-datos.PNG)
+
